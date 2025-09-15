@@ -47,7 +47,7 @@ streamlit run app.py
 - Ollama running locally on port 11434
 - Internet connection for web scraping
 
-![App Screenshot](/Users/akash/Desktop/UI.png)
-![App Screenshot](/Users/akash/Desktop/response.png)
+![App Screenshot](./Imgaes/UI.png)
+![App Screenshot](./Images/response.png)
 
 
